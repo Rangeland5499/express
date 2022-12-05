@@ -11,9 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2022-12-05
 
-##Added
+## Added
 *Added express basic setup
 *Added cheese route (/cheeses)
 *Added authorization middleware for cheese
-[1.0.0]:https://github.com/Rangeland5499/wxpress/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Rangeland5499/wxpress/releases/tag/v1.0.0
 
